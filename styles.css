@@ -1,0 +1,41 @@
+.one {
+width: 200;
+height: 200;
+
+
+border: 5px solid silver;
+
+}
+.two {
+    position: relative;
+    min-height: 100vh;
+}
+.three {
+    align-items: center;
+    border: 5px solid black ;
+}
+p {
+    border:dotted;
+    font-style: cursive;
+    color:black;
+   
+}
+
+
+h1 {
+    font: bold; 
+    color: silver;
+    text-align: center;
+}
+footer {
+    background: silver;
+    color: black;
+    border: thick;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 2.5rem;
+    text-align: center;
+
+
+}

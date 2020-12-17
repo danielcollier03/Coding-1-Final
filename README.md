@@ -1,2 +1,3 @@
 # Coding-1-Final
  These are the starter files for F2020 Coding 1
+this web page contains a home page, a contact page, and an about me page. In the home page i have three images in the carousel. In the about me page i have listed basic details about me. I put a border around the text and styled the title. In the contact page I have also put the same dotted border surrounding the text and styled the title the same way. for all three pages i have added a footer that i set absolute position to the relative positioned page content. for the img on the home page i used a silver solid border with 5px. 
